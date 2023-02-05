@@ -1,0 +1,20 @@
+{
+  "name": "com.sorceressspell.librarioh.pathfinding",
+  "displayName": "LibrarIoh.Pathfinding",
+  "version": "0.1.0",
+  "type": "library",
+  "unity": "2018.1",
+  "description": "LibrarIoh.Pathfinding (https://github.com/SorceryStory/LibrarIoh.Pathfinding)\n\nLibrarIoh's Core Library.\n\nDepends on:\n  - LibrarIoh.Collections (https://github.com/SorceryStory/LibrarIoh.Collections)",
+  "dependencies": {
+    "com.sorceressspell.librarioh.collections": "0.3.1"
+  },
+  "author": {
+    "name": "Joana Almeida",
+    "email": "Sorceress.Spell@gmail.com",
+    "url": "http://SorceressSpell.com"
+  },
+  "keywords": [
+    "librarioh",
+    "pathfinding"
+  ]
+}
